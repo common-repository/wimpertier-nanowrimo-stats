@@ -1,0 +1,110 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Package Name\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-05-25 11:27+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: includes/wtnnwm-widget.php:17
+msgid "A widget which displays the statistic from a NaNoWriMO user"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:19
+msgid "NaNoWriMO Widget"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:25
+msgid "My NaNoWriMO Stats"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:48
+msgid "Title:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:50
+msgid "Username:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:54
+msgid "Daily Statistics"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:55
+msgid "Date Format for Daily Statistics:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:57
+msgid "dd-mm-yyyy"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:58
+msgid "yyyy-mm-dd"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:59
+msgid "dd/mm yyyy"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:63
+msgid "Words Written"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:67
+msgid "Words/Day Written"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:70
+msgid "Words To Write"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:73
+msgid "Words/Day To Write"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:76
+msgid "Finished on"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:132
+msgid "Writer:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:142
+msgid "Date:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:143
+msgid "Words:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:250
+msgid "Words/Day Written:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:255
+msgid "Words Written:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:259
+msgid "Words To Write:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:263
+msgid "Words/Day To Write:"
+msgstr ""
+
+#: includes/wtnnwm-widget.php:267
+msgid "Finished On:"
+msgstr ""

@@ -1,0 +1,43 @@
+.wtnnwm-widget-statistics {
+	width: 100%;	
+	border-collapse: collapse;
+}
+
+.wtnnwm-widget-statistics , 
+.wtnnwm-widget-statistics tr, 
+.wtnnwm-widget-statistics td {
+	border: 1px solid darkgrey;
+	table-layout: auto;
+}
+
+.wtnnwm-widget-statistics td, 
+.wtnnwm-widget-statistics th {
+	padding-left: 3px;
+}
+
+.wtnnwm-widget-statistics tr:nth-child(even) {
+	background-color: lightgrey;
+}
+
+.wtnnwm-widget-statistics th {
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	border: 1px solid black;
+}
+
+.wtnnwm-widget-statistics {
+	margin-bottom: 15px;
+}
+
+.wtnnwm-red {
+	color: red;
+}
+
+.wtnnwm-green {
+	color: green;
+}
+
+.wtnnwm-widget-information span {
+	float: right;
+}
